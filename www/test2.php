@@ -1,3 +1,3 @@
 <?php 
- Echo "Hello, Udara PHP-----------2! from Isuru Perera";
+ Echo "Hello, Udara Liyanage PHP-----------2! from Isuru Perera";
 ?> 
